@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @simolillo
-- 👀 Computer Science, AI, Sport, Photography.
-- 🌱 Third year Computer Science & AI student at Sapienza University of Rome.
+- 👋 Hi, I’m Simone
+- 👀 Computer Science, AI, Sport, Photography
+- 🌱 Third year Computer Science & AI student at Sapienza University of Rome
 
 <!--
 **simolillo/simolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
